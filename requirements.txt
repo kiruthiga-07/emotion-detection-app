@@ -1,8 +1,12 @@
 streamlit
 opencv-python-headless
-fer
+fer==22.4.0
 numpy
 Pillow
 matplotlib
+tensorflow
+mtcnn
+
+
 
 
